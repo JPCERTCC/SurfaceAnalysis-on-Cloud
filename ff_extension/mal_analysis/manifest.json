@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+	"name": "MalAnalysis on AWS",
+	"version": "1.3",
+  "description": "Analyzes malware (YARA scan, floss, capa etc.) using serverless system.",
+
+  "icons": {
+    "48": "icons/icon_48.png",
+    "96": "icons/icon_96.png"
+  },
+
+  "background": {
+    "scripts": ["main.js"]
+  },
+
+  "permissions": [
+      "tabs",
+      "contextMenus",
+      "http://*/*",
+			"https://*/*"
+  ]
+}

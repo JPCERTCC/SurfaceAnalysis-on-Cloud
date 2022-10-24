@@ -1,0 +1,6 @@
+requests
+pytz
+selenium==3.13.0
+pdfminer
+bs4
+filetype

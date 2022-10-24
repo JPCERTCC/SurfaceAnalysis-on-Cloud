@@ -1,0 +1,14 @@
+Securelist
+TrendMicroRSRCH
+MsftSecIntel
+AvastThreatLabs
+_CPResearch_
+threatintel
+Mandiant
+fortinet
+welivesecurity
+McAfee_Labs
+Unit42_Intel
+TalosSecurity
+MBThreatIntel
+ESETresearch
